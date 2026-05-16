@@ -1,0 +1,9 @@
+{
+  "name": "gipity4",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "node gipity.test.js"
+  }
+}
