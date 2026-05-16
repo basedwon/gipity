@@ -1,9 +1,7 @@
-<p align="center">
-  <strong style="font-size: 42px;">Gipity4</strong>
-</p>
+<h1 align="center">Gipity4</h1>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/gipity4"><img alt="npm" src="https://img.shields.io/npm/v/gipity4?color=54E7B8"></a>
+  <a href="https://www.npmjs.com/package/gipity4"><img alt="npm" src="https://img.shields.io/npm/v/gipity4?color=F2A93B"></a>
   <a href="https://www.npmjs.com/package/gipity4"><img alt="npm downloads" src="https://img.shields.io/npm/dm/gipity4?color=20BFA8"></a>
   <a href="https://github.com/basedwon/gipity/actions/workflows/ci.yml"><img alt="build" src="https://img.shields.io/github/actions/workflow/status/basedwon/gipity/ci.yml?branch=master&label=build&color=20BFA8"></a>
   <a href="./LICENSE"><img alt="license" src="https://img.shields.io/badge/license-proprietary-5DA9FF"></a>
