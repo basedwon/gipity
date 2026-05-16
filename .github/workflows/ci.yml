@@ -21,6 +21,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 24
+          package-manager-cache: false
+
+      - name: Install public deps
+        run: npm install --no-package-lock
 
       - name: Run smoke test
-        run: node gipity.test.js
+        run: npm test
